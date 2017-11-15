@@ -1,12 +1,14 @@
 ## Fitbit API php wrapper
 
-You can use the [editor on GitHub](https://github.com/altinturk/fitbit-php/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 I just needed an all-in-one php wrapper to handle authentication and requests, so this piece of code has born.
+
+Wrapper MIT-Licensed.
+fitbit and everything regarding the brand, tools, api, whatnot are properties of FitBit inc.
+eventual spillage of blood, sweat or tears during exercise, are under your responsability.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How-to session will be inserted here.
 
 ```markdown
 Syntax highlighted code block
