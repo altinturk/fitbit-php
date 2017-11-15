@@ -3,7 +3,9 @@
 I just needed an all-in-one php wrapper to handle authentication and requests, so this piece of code has born.
 
 Wrapper MIT-Licensed.
+
 fitbit and everything regarding the brand, tools, api, whatnot are properties of FitBit inc.
+
 eventual spillage of blood, sweat or tears during exercise, are under your responsability.
 
 ### Markdown
